@@ -1,4 +1,4 @@
-# _Address Book_
+# _Hair Salon_
 
 #### _A hair salon app for Epicodus C# Week 3 Code Challenge, October 2017_
 
